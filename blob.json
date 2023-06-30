@@ -1,0 +1,26 @@
+{
+   "on_cloud": 
+   {
+        "nameAccount": ,
+        "keyAccount": ,
+        "protocolDefaultEndpoints": ,
+        "suffixEndpoints" : ,
+        "conn_string_BlobStorage" : ,
+        "conn_string_SQLAuth": ,
+        "containerRawDataRead" : , 
+        "containerRawDataError" : ,
+        "containerRawDataProcessed" : ,
+        "containerReadyDataError" :,
+        "containerReadyDataProcessed" : , 
+        "containerReadyDataOutput": 
+   },
+   
+   "on_prem": 
+   {
+        
+        "conn_string_SQLAuth": ,
+        "containerRawDataProcessed" : ,
+        "containerReadyDataToCloud" : 
+    }
+    
+}
