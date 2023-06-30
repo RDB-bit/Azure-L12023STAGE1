@@ -16,7 +16,7 @@ This repository contains examples of working with Azure Blob Storage using Pytho
 7. Prepare requirements.txt file (most packages are not required with Data Science batch pool but I did it as an exercise)
     1. pip install azure-mgmt-storage
     2. pip install azure-storage-blob
-8. Prepare json file with parameters to use in python script like connection string etc
+8. Prepare json file with parameters to use in python script like connection string etc. blob.json uploaded is a template taht I used.
     **You can also use ADF pipeline Parameter list OR Batch Process Extended Properties
 
 
